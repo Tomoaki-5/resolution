@@ -1,0 +1,12 @@
+lambda          0.365
+na              0.9999
+
+defocus -100 -40 61
+
+siguma 0.01
+
+pcuts  1.0 	
+nsourcedi 50
+
+ntfftx 256
+ntffty 256

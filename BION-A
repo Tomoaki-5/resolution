@@ -1,0 +1,17 @@
+lambda          0.365
+na              0.9999
+
+defocus -60 0 0
+
+bion_focus -40
+
+ 
+spot = 0.001 0.0 0.0 1 
+
+pcuts  1.0 	
+nsourcedi 50
+
+ntfftx 256
+ntffty 256
+
+field -32 -32 64 64 0.0 0 
